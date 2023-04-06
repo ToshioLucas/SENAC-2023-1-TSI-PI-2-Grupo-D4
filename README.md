@@ -1,13 +1,13 @@
 # Aplicação Web Dinâmica
 
 ## Equipe
-
+```
 - Guilherme Eirale
 - Guilherme Andrade
 - Lucas Toshio
 - Lucas Oliveira
 - Uthiele Jesus Guimaraes
-
+```
 ### Histórico
 
 | Data       | O que foi feito |
