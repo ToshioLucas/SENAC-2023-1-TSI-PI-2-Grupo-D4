@@ -8,7 +8,7 @@
 - Lucas Oliveira
 - Uthiele Jesus Guimaraes
 
-## Histórico
+### Histórico
 
 | Data       | O que foi feito |
 |------------|-----------------|
