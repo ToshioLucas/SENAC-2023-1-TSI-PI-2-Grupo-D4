@@ -7,12 +7,10 @@
 }
 
 body {
-    background-color: #f5f5f5;
+    background-color: #1C8394;
 }
 
-#checkbox, .btn span { /* Hide the checkbox input & word "Menu" in the button */
-    display: none;
-}
+
 
 
 
@@ -62,10 +60,6 @@ body {
 
 
 
-
-
-
-
 .sidebar ul a:hover, .sidebar ul a.active {
     background-color: #161920;
     color: #fff;
@@ -79,19 +73,3 @@ body {
     width: 4px;
     height: 100%;
 }
-/* Sidebar - ends */
-
-/* Effect of showing the sidebar - starts */
-#checkbox:checked ~ .sidebar {
-    transform: translateX(0);
-}
-
-#checkbox:checked + .btn {
-    width: 250px;
-    padding: 0 20px;
-}
-
-#checkbox:checked + .btn span { /* Show again the word "Menu" in the button */
-    display: inline;
-}
-/* Effect of showing the sidebar - ends */
