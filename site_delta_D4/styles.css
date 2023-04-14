@@ -64,11 +64,7 @@ body {
 
 
 
-/* Add margin to the icon in the second item */
-.sidebar ul a:nth-child(2) li i {
-    margin-left: 4px;
-    margin-right: 19px;
-}
+
 
 .sidebar ul a:hover, .sidebar ul a.active {
     background-color: #161920;
