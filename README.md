@@ -3,7 +3,6 @@
 ## Equipe
 
 - Guilherme Eirale
-- Guilherme Andrade
 - Lucas Toshio
 - Lucas Oliveira
 - Uthiele Jesus Guimaraes
